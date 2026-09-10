@@ -1,1 +1,5 @@
-
+{
+  "rewrites": [
+    { "source": "/", "destination": "/Happy-Birthday-Dost (1).html" }
+  ]
+}
